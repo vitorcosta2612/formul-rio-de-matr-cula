@@ -10,7 +10,7 @@ O projeto é um formulário de matrícula de uma escola infantil fictícia
 
 Acesse o projeto online:
 
-[https://vitorcosta2612.github.io/formul-rio-de-matr-culaportfolio-dev/](https://vitorcosta2612.github.io/formul-rio-de-matr-cula/)
+[https://vitorcosta2612.github.io/formulario-de-matriculaportfolio-dev/](https://vitorcosta2612.github.io/formulario-de-matricula/)
 
 ## Tecnologias utilizadas
 
